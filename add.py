@@ -1,0 +1,1 @@
+print("foreign_code")
